@@ -1,17 +1,14 @@
-
-/*
-  xt256.css
-
-  Contact: initbar [at] protonmail [dot] ch
-         : github.com/initbar
-*/
-
+@font-face {
+  font-family: SCP;
+  src: url("scp.otf");
+}
 .hljs {
   display: block;
   overflow-x: auto;
   color: #eaeaea;
   background: #000;
   padding: 0.5;
+  font-family: SCP;
 }
 
 .hljs-subst {
